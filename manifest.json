@@ -1,0 +1,7 @@
+{
+	  "id"        : "preside-ext-wordpress-migration"
+	, "title"     : "Wordpress Migration"
+	, "author"    : "Teon Ooi"
+	, "version"   : "$VERSION_NUMBER"
+	, "dependsOn" : []
+}
