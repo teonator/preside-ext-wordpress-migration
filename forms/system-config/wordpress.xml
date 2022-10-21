@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="system-config.wordpress:">
+	<tab id="default">
+		<fieldset id="db">
+			<field name="host"     control="textInput" required="false" />
+			<field name="port"     control="textInput" required="false" />
+			<field name="name"     control="textInput" required="true" />
+			<field name="user"     control="textInput" required="true" />
+			<field name="password" control="password"  required="false" outputSavedValue="true" />
+		</fieldset>
+	</tab>
+</form>
